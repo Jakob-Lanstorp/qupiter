@@ -4,8 +4,8 @@ QGIS processing plugin for quering The Geological Survey of Denmark and Greenlan
 
 Qupiter has two strong dependencies:
 
--A hosted PostgreSQL version of PCJupiterXL (available from geus.dk)
--A serie of PostgreSQL PostGIS scripts (available from github.com/Jakob-Lanstorp/pgjupiter)
+* A hosted PostgreSQL version of PCJupiterXL (available from geus.dk)
+* A serie of PostgreSQL PostGIS scripts (available from github.com/Jakob-Lanstorp/pgjupiter)
 
 ![qupiter qgis processing ui](qupiter_ui.png)
 
